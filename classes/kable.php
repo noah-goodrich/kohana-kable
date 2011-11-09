@@ -6,8 +6,6 @@
  * 
 */
 
-require MODPATH.'kable/vendor/Table/library/Table.php';
-
 class Kable extends Kable_Core
 {
 
