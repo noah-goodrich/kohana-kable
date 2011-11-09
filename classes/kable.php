@@ -8,11 +8,7 @@
 
 require MODPATH.'kable/vendor/Table/library/Table.php';
 
-class Kable extends Table
+class Kable extends Kable_Core
 {
 
-	public static function factory(array $config = array())
-	{
-		return new Table($config);
-	}
 }
