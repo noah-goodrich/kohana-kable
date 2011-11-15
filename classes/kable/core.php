@@ -11,6 +11,6 @@ class Kable_Core extends Table
 	
 	public function set_data_source($data, $type = 'dom')
 	{
-		parent::setSetDataSource($data, $type);
+		parent::setDataSource($data, $type);
 	}
 }
