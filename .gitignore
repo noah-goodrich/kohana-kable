@@ -1,1 +1,3 @@
 *.komodo*
+/nbproject/private/
+/nbproject/*
