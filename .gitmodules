@@ -1,1 +1,4 @@
 
+[submodule "vendor/Table"]
+	path = vendor/Table
+	url = git@github.com:noah-goodrich/table.git
